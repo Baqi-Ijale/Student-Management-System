@@ -47,6 +47,11 @@ SQL Fundamentals has the highest enrollment with **10 students**, followed by Py
 
 <img width="1605" height="1095" alt="enroll" src="https://github.com/user-attachments/assets/f5824490-5187-4a4d-b688-f251cfcc994a" />
 
+## Total students by instructor
+
+<img width="1605" height="1128" alt="instructor" src="https://github.com/user-attachments/assets/f81c9208-6ec2-4e0c-9845-0c1a16ebfbdd" />
+
+
 
 ## 4. Recommendations
 
