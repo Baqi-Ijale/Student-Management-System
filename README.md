@@ -45,6 +45,9 @@ The analysis identified the **top five students based on their individual assess
 
 SQL Fundamentals has the highest enrollment with **10 students**, followed by Python Programming and Data Analysis with 8 students each. The enrollment analysis also identifies courses with more than five students.
 
+<img width="1605" height="1095" alt="enroll" src="https://github.com/user-attachments/assets/f5824490-5187-4a4d-b688-f251cfcc994a" />
+
+
 ## 4. Recommendations
 
 1. Investigate the factors contributing to the strong performance in **Power BI** and consider applying similar teaching approaches to other courses.
