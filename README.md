@@ -31,6 +31,10 @@ Each student is enrolled in two courses, providing a balanced dataset for perfor
 
 **Power BI recorded the highest average performance**, while Data Analysis had the lowest average among the five courses.
 
+<img width="1569" height="1140" alt="courses avg" src="https://github.com/user-attachments/assets/1c6c7384-d727-46a5-88ad-347356d60c06" />
+
+
+
 ### Student Performance
 
 The analysis identified the **top five students based on their individual assessment scores**, with the highest recorded score being 96. The dataset contains no scores below 50, indicating that none of the recorded students fell into the low-performance category defined by the SQL query.
